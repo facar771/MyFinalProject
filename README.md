@@ -1,3 +1,6 @@
+![Robot](https://user-images.githubusercontent.com/59576219/187994489-eedf6794-7191-4b55-ae0a-cdfeb235d738.png)
+![Robot](https://user-images.githubusercontent.com/59576219/187994501-9e5b6c3d-b0bc-4a62-b614-41753c78d81b.png)
+
 Parts used in the system;
 
 - Nema 17 Step motor (4 pieces)
