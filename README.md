@@ -8,3 +8,5 @@ Parts used in the system;
 - HC-SR04 Ultrasonic Sensor (1 piece)
 - 3D Parth
 
+I soldered it to the perforated board so that the system I set up with the esp8266 card would look neat.
+The project can be controlled with the arduino CNC shield to be systematic, but since this is a ready-made system, I preferred the complex way.
