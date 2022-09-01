@@ -1,5 +1,5 @@
 ![Robot](https://user-images.githubusercontent.com/59576219/187994489-eedf6794-7191-4b55-ae0a-cdfeb235d738.png)
-![Robot](https://user-images.githubusercontent.com/59576219/187994501-9e5b6c3d-b0bc-4a62-b614-41753c78d81b.png)
+![Kart](https://user-images.githubusercontent.com/59576219/187997800-b10f1d41-dacf-4c25-af1d-92599ab07e57.png)
 
 Parts used in the system;
 
